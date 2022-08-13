@@ -1,0 +1,5 @@
+Study,Games
+Eat,Drink
+Games,Study
+Eat,Drink
+Play,Sleep
